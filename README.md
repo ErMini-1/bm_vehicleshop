@@ -1,4 +1,4 @@
-***INSTALACIÓN***
+***HOW TO INSTALL***
 
 You need add in cfg
 
